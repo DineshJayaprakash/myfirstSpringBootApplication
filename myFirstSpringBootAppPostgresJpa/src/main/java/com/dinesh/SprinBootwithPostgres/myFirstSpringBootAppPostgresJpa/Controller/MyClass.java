@@ -14,6 +14,7 @@ public class MyClass {
 		 obj.put(1, "vig");
 
 		 System.out.println(obj);
+		 System.out.println("HelloWorld");
 	}
 
 }
